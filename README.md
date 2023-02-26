@@ -24,7 +24,7 @@
 
 - 디자인 패턴 분류
 
-![designpattern](./img/designpattern.png)
+![designpattern](https://user-images.githubusercontent.com/22589581/221405483-2b0b9368-39c1-4ea5-b216-17ecd339e7ef.png)
 
 ## 디자인 패턴은 규칙이 아닙니다
 
