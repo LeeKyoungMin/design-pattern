@@ -18,7 +18,8 @@
 
 ## 3. Class diagram
 
-![singleton](./img/2-1.PNG)
+![singleton1](https://user-images.githubusercontent.com/22589581/221563374-8c9a039f-c119-4dea-8995-2b1ce8b0d0eb.png)
+
 
 ## 4. 객체 협력 (collaborations)
 
