@@ -19,7 +19,7 @@
 
 ## 3. Class diagram
 
-![observer](./img/observer.png)
+![observer](https://user-images.githubusercontent.com/22589581/222592435-51bbc74d-aff0-403e-96a5-291a742d2941.png)
 
 
 ## 4. 객체 협력 (collaborations)
