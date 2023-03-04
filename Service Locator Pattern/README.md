@@ -23,7 +23,8 @@ public class UserApplicationService{
 }
 ```
 
-![Untitled](Service%20Locator%20Pattern%203945a00be7224623b12cf0ff7023c784/Untitled.png)
+<img width="700" alt="service Locator pattern" src="https://user-images.githubusercontent.com/22589581/222904588-6d3c5071-f77c-4be3-ac1e-d60a6dc9fe3a.png">
+
 
 but. Service Locator 패턴은 처음부터 안티패턴으로 보는 경우가 있다.
 
