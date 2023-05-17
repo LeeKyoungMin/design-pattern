@@ -4,7 +4,8 @@
 
 - 복제해서 인스턴스를 만드는 패턴
 
-![prototype](./img/prototype.png)
+![prototype1](https://github.com/LeeKyoungMin/design-pattern/assets/22589581/8ad2c511-6fce-4df6-871a-0bb6bc642a5e)
+
 
 ## 2. 의도 (Intent)와 동기(Motivation)
 
@@ -15,7 +16,7 @@
 
 ## 3. Class diagram
 
-![1.png](./img/1.PNG)
+![Prototype2](https://github.com/LeeKyoungMin/design-pattern/assets/22589581/aea678bf-fcb6-431b-ac86-4db8988030a4)
 
 ## 4. 객체 협력 (collaborations)
 
